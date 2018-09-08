@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = s3://mycloud927/work
+[core]
+remote = myremote
