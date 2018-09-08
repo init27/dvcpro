@@ -1,0 +1,11 @@
+cmd: ' python sobel.py -l 176'
+deps:
+- md5: c78558e4863b6bf0803f6cd6f210b7f9
+  path: sobel.py
+- md5: 087ee2d4a9214e02a4829a7a763ccf46
+  path: data/blur.jpg
+md5: 1a734e029e5497224c15d544a26b45e9
+outs:
+- cache: true
+  md5: 4965bcbd65519458e1248ec87fbc8f04
+  path: data/angle.jpg

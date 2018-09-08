@@ -1,0 +1,9 @@
+cmd: ' python gray.py -i bricks.png'
+deps:
+- md5: ccb2a922e626b84d3bc46bcf59906e1b
+  path: gray.py
+md5: aafbf087e7a3a141a49f8ba6bf5e5d67
+outs:
+- cache: true
+  md5: b95b80aef834fcdc2dd4ab463b7b5975
+  path: data/gray.jpg

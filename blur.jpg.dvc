@@ -1,0 +1,11 @@
+cmd: ' python blur.py'
+deps:
+- md5: 7f92e93cdc0c0591d69f511061cf8ead
+  path: blur.py
+- md5: b95b80aef834fcdc2dd4ab463b7b5975
+  path: data/gray.jpg
+md5: 90e976c9282f7045a52ef27b5d89d626
+outs:
+- cache: true
+  md5: 087ee2d4a9214e02a4829a7a763ccf46
+  path: data/blur.jpg
